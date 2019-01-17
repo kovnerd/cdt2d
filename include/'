@@ -1,0 +1,16 @@
+#ifndef link_h
+#define link_h
+#include "libraries.h"
+
+class Link
+{
+	private:
+		std::pair<long, long> vertices;
+	public:
+		Link(long v1, long v2){vertices.first = v1; vertices.second = v2;}
+		
+		long getOpposite(long ref){if(ref == vertices.first) {return vertices.second;} else if(ref == vertices.second){return vertices.first;} else{return -1;}};
+		void setOpposite(long ref, long newOpposite) {if(ref == vertices.first) {newOpposite = vertices.second;} else if(ref == vertices.second){vertices.first = newOpposite;}};
+}
+
+#endif

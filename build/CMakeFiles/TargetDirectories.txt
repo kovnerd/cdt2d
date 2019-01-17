@@ -1,0 +1,9 @@
+/scratch/kovnerd/CDT2D_ssf/build/CMakeFiles/rebuild_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/CMakeFiles/edit_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/src/CMakeFiles/rebuild_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/src/CMakeFiles/lbcdt.dir
+/scratch/kovnerd/CDT2D_ssf/build/src/CMakeFiles/edit_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/test/CMakeFiles/edit_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/test/CMakeFiles/LatticeDebug.dir
+/scratch/kovnerd/CDT2D_ssf/build/test/CMakeFiles/rebuild_cache.dir
+/scratch/kovnerd/CDT2D_ssf/build/test/CMakeFiles/MovesDebug.dir
